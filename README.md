@@ -8,7 +8,7 @@
 
 I'm a passionate product builder obsessed with creating solutions that are **useful, delightful, and actually get used**. Think of me as someone who loves turning ideas into reality with code, no‑code tools, and a pinch of creative chaos.
 
-I specialize in building across **sports tech**, **education tech**, **gaming**, **productivity**, and **utility spaces**. My products range from serious (like **PMBuddy** helping PMs transform mockups into stories) to fun (like **Bumba Game** where tech professionals climb the investment ladder).
+I specialize in building across **sports tech**, **faith**, **education tech**, **gaming**, **productivity**, and **utility spaces**. My products range from serious (like **PMBuddy** helping PMs transform mockups into stories) to fun (like **Bumba Game** where tech professionals climb the investment ladder).
 
 **Favorite fuel:** Cycling 🚴, good problems 🤔, and shipping products 🚢
 
