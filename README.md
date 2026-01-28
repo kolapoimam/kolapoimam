@@ -18,7 +18,7 @@ I specialize in building across **sports tech**, **education tech**, **gaming**,
 
 **AI/No-Code Superpowers:** Lovable, AI Studio  
 **Programming Languages:** TypeScript, JavaScript  
-**Visualizations & Diagrams:** PlantUML  
+**Visualizations & Diagrams:** PlantUML, Figma  
 **APIs & Data Formats:** REST APIs, JSON  
 **Dev Tools:** Claude Code, Web Development
 
