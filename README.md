@@ -31,6 +31,8 @@ I specialize in building across **sports tech**, **faith**, **education tech**, 
 | Product | Description | Link |
 |--------|-------------|------|
 | **SportCliq** | Sport planning and organising platform for players and venue owners | [Live](https://sportcliq.com) |
+| **SportCliq App** | Match scheduling and coordination experience for players | [App](https://app.sportcliq.com) |
+
 
 ### 📚 EdTech & Learning
 
@@ -64,6 +66,9 @@ I specialize in building across **sports tech**, **faith**, **education tech**, 
 | **Roadmap Glow** | Visual roadmap experience for product journeys | [View](https://getroadmap.vercel.app/) |
 | **UseZaman** | Time‑tracking and focus helper | [Use](https://usezaman.vercel.app/) |
 | **SceneryPro / SceneryAI** | Scenic vision tools and experiments | [Explore SceneryPro](https://scenerypro.vercel.app/) · [Explore SceneryAI](https://sceneryai.vercel.app/) |
+| **Zaplet API App** | Collections‑first API client and workflow helper | [Use](https://zapletapp.vercel.app) |
+| **Navitrek** | Navigation‑style hub for content and tools | [Visit](https://navitrek.vercel.app) |
+
 
 ### 🌙 Spiritual & Wellness
 
@@ -71,6 +76,8 @@ I specialize in building across **sports tech**, **faith**, **education tech**, 
 |--------|-------------|------|
 | **Qiyaam** | Find the perfect time for peace, prayer, and reflection (last third of the night) | [Reflect](https://qiyaamapp.vercel.app/) |
 | **AnfIQ** | Calculate Zakat al‑Fitr quickly and accurately | [Calculate](https://anfiq.vercel.app/) |
+| **Muwazanah** | Spiritual self‑assessment and balance tool | [Use](https://muwazanah.vercel.app) |
+
 
 ### 💕 Relationships & Social
 
@@ -101,6 +108,8 @@ I specialize in building across **sports tech**, **faith**, **education tech**, 
 |--------|-------------|------|
 | **Mallam‑Kay Podcast 2025** | Podcast platform and community space | [Listen](https://mallamkaypod.vercel.app/) |
 | **PolicyPulse Nigeria** | Policy tracking and visualisation tool | [View](https://policypulse.vercel.app/) |
+| **Lamba News** | Experimental AI‑powered news experience | [Visit](https://lamba-six.vercel.app) |
+
 
 ### 📍 Utilities & Helpers
 
