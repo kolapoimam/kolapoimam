@@ -10,7 +10,7 @@ I'm a passionate product builder obsessed with creating solutions that are **use
 
 I specialize in building across **sports tech**, **education tech**, **gaming**, **productivity**, and **utility spaces**. My products range from serious (like **PMBuddy** helping PMs transform mockups into stories) to fun (like **Bumba Game** where tech professionals climb the investment ladder).
 
-**Favorite fuel:** Coffee ☕, Good problems 🤔, and shipping products 🚢
+**Favorite fuel:** Cycling 🚴, Good problems 🤔, and shipping products 🚢
 
 ---
 
